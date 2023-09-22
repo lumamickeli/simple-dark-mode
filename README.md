@@ -18,8 +18,9 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src="https://raw.githubusercontent.com/maykbrito/nlw-10-copa/main/.github/preview.jpg" width="100%">
+  <img alt="DevLinks" src="https://github.com/lumamickeli/simple-dark-mode/assets/145803982/0bb5e234-cccb-4ea7-880e-ef24a949dc0b" width="100%">
 </p>
+
 
 ## 🚀 Tecnologias
 
